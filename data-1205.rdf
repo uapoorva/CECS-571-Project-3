@@ -1,0 +1,1547 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://data-gov.tw.rpi.edu/vocab/p/1202/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dgtwc="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xml:base="http://data-gov.tw.rpi.edu/raw/1205/data-1205.rdf" > 
+  <rdf:Description rdf:about="#entry15">
+    <staffing_other_health_professionals>555</staffing_other_health_professionals>
+    <staffing_nursing>331</staffing_nursing>
+    <staffing_physicians>171</staffing_physicians>
+    <state>NY</state>
+    <city>Bronx</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA NY/NJ Veterans Healthcare Network</visn_name>
+    <visn>3</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry133">
+    <staffing_other_health_professionals>+</staffing_other_health_professionals>
+    <staffing_nursing>+</staffing_nursing>
+    <staffing_physicians>+</staffing_physicians>
+    <state>IA</state>
+    <city>Des Moines</city>
+    <facility_name>VA Central Iowa HCS   DesMoines Knoxville</facility_name>
+    <visn_name>VA Midwest Health Care Network</visn_name>
+    <visn>23</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry114">
+    <staffing_other_health_professionals>219</staffing_other_health_professionals>
+    <staffing_nursing>178</staffing_nursing>
+    <staffing_physicians>52</staffing_physicians>
+    <state>ID</state>
+    <city>Boise</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>Northwest Network</visn_name>
+    <visn>20</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry128">
+    <staffing_other_health_professionals>631</staffing_other_health_professionals>
+    <staffing_nursing>521</staffing_nursing>
+    <staffing_physicians>177</staffing_physicians>
+    <state>CA</state>
+    <city>Long Beach</city>
+    <facility_name>VA Long Beach HCS</facility_name>
+    <visn_name>Desert Pacific Healthcare Network</visn_name>
+    <visn>22</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry7">
+    <staffing_other_health_professionals>277</staffing_other_health_professionals>
+    <staffing_nursing>212</staffing_nursing>
+    <staffing_physicians>88</staffing_physicians>
+    <state>RI</state>
+    <city>Providence</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA New England Health Care System</visn_name>
+    <visn>1</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry74">
+    <staffing_other_health_professionals>852</staffing_other_health_professionals>
+    <staffing_nursing>694</staffing_nursing>
+    <staffing_physicians>224</staffing_physicians>
+    <state>IL</state>
+    <city>Hines</city>
+    <facility_name>Edward Hines Jr. VA Hospital</facility_name>
+    <visn_name>The Great Lakes Health Care System</visn_name>
+    <visn>12</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry94">
+    <staffing_other_health_professionals>209</staffing_other_health_professionals>
+    <staffing_nursing>228</staffing_nursing>
+    <staffing_physicians>67</staffing_physicians>
+    <state>OK</state>
+    <city>Muskogee</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>South Central VA Health Care Network</visn_name>
+    <visn>16</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry25">
+    <staffing_other_health_professionals>470</staffing_other_health_professionals>
+    <staffing_nursing>478</staffing_nursing>
+    <staffing_physicians>228</staffing_physicians>
+    <state>PA</state>
+    <city>Philadelphia</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Stars &amp; Stripes Healthcare Network</visn_name>
+    <visn>4</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry54">
+    <staffing_other_health_professionals>894</staffing_other_health_professionals>
+    <staffing_nursing>822</staffing_nursing>
+    <staffing_physicians>298</staffing_physicians>
+    <state>PR</state>
+    <city>San Juan</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Sunshine Healthcare Network</visn_name>
+    <visn>8</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry44">
+    <staffing_other_health_professionals>617</staffing_other_health_professionals>
+    <staffing_nursing>566</staffing_nursing>
+    <staffing_physicians>130</staffing_physicians>
+    <state>GA</state>
+    <city>Augusta</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Southeast Network</visn_name>
+    <visn>7</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry108">
+    <staffing_other_health_professionals>107</staffing_other_health_professionals>
+    <staffing_nursing>127</staffing_nursing>
+    <staffing_physicians>27</staffing_physicians>
+    <state>CO</state>
+    <city>Grand Junction</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>Rocky Mountain Network</visn_name>
+    <visn>19</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry64">
+    <staffing_other_health_professionals>141</staffing_other_health_professionals>
+    <staffing_nursing>98</staffing_nursing>
+    <staffing_physicians>49</staffing_physicians>
+    <state>OH</state>
+    <city>Columbus</city>
+    <facility_name>Chalmers Wylie Outpatient Clinic ������</facility_name>
+    <visn_name>VA Health Care System of Ohio</visn_name>
+    <visn>10</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry35">
+    <staffing_other_health_professionals>559</staffing_other_health_professionals>
+    <staffing_nursing>370</staffing_nursing>
+    <staffing_physicians>144</staffing_physicians>
+    <state>NC</state>
+    <city>Salisbury</city>
+    <facility_name>W.G. (Bill) Hefner VA Medical Center</facility_name>
+    <visn_name>VA Mid-Atlantic Health Care Network</visn_name>
+    <visn>6</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry134">
+    <staffing_other_health_professionals>441</staffing_other_health_professionals>
+    <staffing_nursing>344</staffing_nursing>
+    <staffing_physicians>145</staffing_physicians>
+    <state>IA</state>
+    <city>Iowa City</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Midwest Health Care Network</visn_name>
+    <visn>23</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry65">
+    <staffing_other_health_professionals>499</staffing_other_health_professionals>
+    <staffing_nursing>417</staffing_nursing>
+    <staffing_physicians>99</staffing_physicians>
+    <state>OH</state>
+    <city>Dayton</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Health Care System of Ohio</visn_name>
+    <visn>10</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry14">
+    <staffing_other_health_professionals>760</staffing_other_health_professionals>
+    <staffing_nursing>580</staffing_nursing>
+    <staffing_physicians>192</staffing_physicians>
+    <state>NJ</state>
+    <city>East Orange</city>
+    <facility_name>VA New Jersey HCS East Orange Campus</facility_name>
+    <visn_name>VA NY/NJ Veterans Healthcare Network</visn_name>
+    <visn>3</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry129">
+    <staffing_other_health_professionals>1,157</staffing_other_health_professionals>
+    <staffing_nursing>970</staffing_nursing>
+    <staffing_physicians>376</staffing_physicians>
+    <state>CA</state>
+    <city>Los Angeles</city>
+    <facility_name>VA Greater Los Angeles HCS (GLA)</facility_name>
+    <visn_name>Desert Pacific Healthcare Network</visn_name>
+    <visn>22</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry115">
+    <staffing_other_health_professionals>715</staffing_other_health_professionals>
+    <staffing_nursing>664</staffing_nursing>
+    <staffing_physicians>223</staffing_physicians>
+    <state>OR</state>
+    <city>Portland</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>Northwest Network</visn_name>
+    <visn>20</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry8">
+    <staffing_other_health_professionals>189</staffing_other_health_professionals>
+    <staffing_nursing>155</staffing_nursing>
+    <staffing_physicians>69</staffing_physicians>
+    <state>VT</state>
+    <city>White River Junction</city>
+    <facility_name>VAM/ROC</facility_name>
+    <visn_name>VA New England Health Care System</visn_name>
+    <visn>1</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry120">
+    <staffing_other_health_professionals>112</staffing_other_health_professionals>
+    <staffing_nursing>76</staffing_nursing>
+    <staffing_physicians>13</staffing_physicians>
+    <state>WA</state>
+    <city>Walla Walla</city>
+    <facility_name>Jonathan M. Wainwright Memorial VA Medical Center</facility_name>
+    <visn_name>Northwest Network</visn_name>
+    <visn>20</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry24">
+    <staffing_other_health_professionals>389</staffing_other_health_professionals>
+    <staffing_nursing>276</staffing_nursing>
+    <staffing_physicians>63</staffing_physicians>
+    <state>PA</state>
+    <city>Lebanon</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Stars &amp; Stripes Healthcare Network</visn_name>
+    <visn>4</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry75">
+    <staffing_other_health_professionals>420</staffing_other_health_professionals>
+    <staffing_nursing>265</staffing_nursing>
+    <staffing_physicians>99</staffing_physicians>
+    <state>IL</state>
+    <city>North Chicago</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>The Great Lakes Health Care System</visn_name>
+    <visn>12</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry100">
+    <staffing_other_health_professionals>612</staffing_other_health_professionals>
+    <staffing_nursing>554</staffing_nursing>
+    <staffing_physicians>156</staffing_physicians>
+    <state>AZ</state>
+    <city>Phoenix</city>
+    <facility_name>Carl T. Hayden VA Medical Center</facility_name>
+    <visn_name>VA Southwest Health Care Network</visn_name>
+    <visn>18</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry95">
+    <staffing_other_health_professionals>457</staffing_other_health_professionals>
+    <staffing_nursing>426</staffing_nursing>
+    <staffing_physicians>164</staffing_physicians>
+    <state>OK</state>
+    <city>Oklahoma City</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>South Central VA Health Care Network</visn_name>
+    <visn>16</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry55">
+    <staffing_other_health_professionals>458</staffing_other_health_professionals>
+    <staffing_nursing>400</staffing_nursing>
+    <staffing_physicians>104</staffing_physicians>
+    <state>KY</state>
+    <city>Lexington</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Mid South Healthcare Network</visn_name>
+    <visn>9</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry45">
+    <staffing_other_health_professionals>261</staffing_other_health_professionals>
+    <staffing_nursing>154</staffing_nursing>
+    <staffing_physicians>32</staffing_physicians>
+    <state>GA</state>
+    <city>Dublin</city>
+    <facility_name>Carl Vinson VA Medical Center</facility_name>
+    <visn_name>VA Southeast Network</visn_name>
+    <visn>7</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry34">
+    <staffing_other_health_professionals>245</staffing_other_health_professionals>
+    <staffing_nursing>229</staffing_nursing>
+    <staffing_physicians>73</staffing_physicians>
+    <state>NC</state>
+    <city>Fayetteville</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Mid-Atlantic Health Care Network</visn_name>
+    <visn>6</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry109">
+    <staffing_other_health_professionals>139</staffing_other_health_professionals>
+    <staffing_nursing>193</staffing_nursing>
+    <staffing_physicians>55</staffing_physicians>
+    <state>MT</state>
+    <city>Fort Harrison</city>
+    <facility_name>VA Montana HCS</facility_name>
+    <visn_name>Rocky Mountain Network</visn_name>
+    <visn>19</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry135">
+    <staffing_other_health_professionals>988</staffing_other_health_professionals>
+    <staffing_nursing>902</staffing_nursing>
+    <staffing_physicians>216</staffing_physicians>
+    <state>MN</state>
+    <city>Minneapolis</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Midwest Health Care Network</visn_name>
+    <visn>23</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry42">
+    <staffing_other_health_professionals>240</staffing_other_health_professionals>
+    <staffing_nursing>218</staffing_nursing>
+    <staffing_physicians>26</staffing_physicians>
+    <state>AL</state>
+    <city>Tuscaloosa</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Southeast Network</visn_name>
+    <visn>7</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry131">
+    <staffing_other_health_professionals>353</staffing_other_health_professionals>
+    <staffing_nursing>231</staffing_nursing>
+    <staffing_physicians>114</staffing_physicians>
+    <state>NV</state>
+    <city>Las Vegas</city>
+    <facility_name>VA Southern Nevada HCS</facility_name>
+    <visn_name>Desert Pacific Healthcare Network</visn_name>
+    <visn>22</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry17">
+    <staffing_other_health_professionals>427</staffing_other_health_professionals>
+    <staffing_nursing>271</staffing_nursing>
+    <staffing_physicians>81</staffing_physicians>
+    <state>NY</state>
+    <city>Montrose</city>
+    <facility_name>VA Hudson Valley HCS Montrose Castle Pt</facility_name>
+    <visn_name>VA NY/NJ Veterans Healthcare Network</visn_name>
+    <visn>3</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry81">
+    <staffing_other_health_professionals>251</staffing_other_health_professionals>
+    <staffing_nursing>198</staffing_nursing>
+    <staffing_physicians>47</staffing_physicians>
+    <state>KS</state>
+    <city>Wichita</city>
+    <facility_name>Robert J. Dole Department of Veterans Affairs Medical and Regional Office Center</facility_name>
+    <visn_name>VA Heartland Network</visn_name>
+    <visn>15</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry121">
+    <staffing_other_health_professionals>304</staffing_other_health_professionals>
+    <staffing_nursing>191</staffing_nursing>
+    <staffing_physicians>74</staffing_physicians>
+    <state>CA</state>
+    <city>Fresno</city>
+    <facility_name>VA Central California HCS</facility_name>
+    <visn_name>Sierra Pacific Network</visn_name>
+    <visn>21</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry76">
+    <staffing_other_health_professionals>107</staffing_other_health_professionals>
+    <staffing_nursing>127</staffing_nursing>
+    <staffing_physicians>27</staffing_physicians>
+    <state>MI</state>
+    <city>Iron Mountain</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>The Great Lakes Health Care System</visn_name>
+    <visn>12</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry9">
+    <staffing_other_health_professionals>332</staffing_other_health_professionals>
+    <staffing_nursing>331</staffing_nursing>
+    <staffing_physicians>112</staffing_physicians>
+    <state>NY</state>
+    <city>Albany</city>
+    <facility_name>Samuel S. Stratton VAMC</facility_name>
+    <visn_name>VA Healthcare Network Upstate New York</visn_name>
+    <visn>2</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry102">
+    <staffing_other_health_professionals>595</staffing_other_health_professionals>
+    <staffing_nursing>481</staffing_nursing>
+    <staffing_physicians>126</staffing_physicians>
+    <state>AZ</state>
+    <city>Tucson</city>
+    <facility_name>Southern Arizona VA HCS</facility_name>
+    <visn_name>VA Southwest Health Care Network</visn_name>
+    <visn>18</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry56">
+    <staffing_other_health_professionals>368</staffing_other_health_professionals>
+    <staffing_nursing>387</staffing_nursing>
+    <staffing_physicians>113</staffing_physicians>
+    <state>KY</state>
+    <city>Louisville</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Mid South Healthcare Network</visn_name>
+    <visn>9</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry101">
+    <staffing_other_health_professionals>185</staffing_other_health_professionals>
+    <staffing_nursing>162</staffing_nursing>
+    <staffing_physicians>29</staffing_physicians>
+    <state>AZ</state>
+    <city>Prescott</city>
+    <facility_name>Northern Arizona VA HCS</facility_name>
+    <visn_name>VA Southwest Health Care Network</visn_name>
+    <visn>18</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry96">
+    <staffing_other_health_professionals>995</staffing_other_health_professionals>
+    <staffing_nursing>926</staffing_nursing>
+    <staffing_physicians>271</staffing_physicians>
+    <state>TX</state>
+    <city>Houston</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>South Central VA Health Care Network</visn_name>
+    <visn>16</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry23">
+    <staffing_other_health_professionals>134</staffing_other_health_professionals>
+    <staffing_nursing>158</staffing_nursing>
+    <staffing_physicians>31</staffing_physicians>
+    <state>PA</state>
+    <city>Erie</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Stars &amp; Stripes Healthcare Network</visn_name>
+    <visn>4</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry61">
+    <staffing_other_health_professionals>281</staffing_other_health_professionals>
+    <staffing_nursing>284</staffing_nursing>
+    <staffing_physicians>40</staffing_physicians>
+    <state>OH</state>
+    <city>Chillicothe</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Health Care System of Ohio</visn_name>
+    <visn>10</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry62">
+    <staffing_other_health_professionals>420</staffing_other_health_professionals>
+    <staffing_nursing>421</staffing_nursing>
+    <staffing_physicians>149</staffing_physicians>
+    <state>OH</state>
+    <city>Cincinnati</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Health Care System of Ohio</visn_name>
+    <visn>10</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry37">
+    <staffing_other_health_professionals>644</staffing_other_health_professionals>
+    <staffing_nursing>636</staffing_nursing>
+    <staffing_physicians>175</staffing_physicians>
+    <state>VA</state>
+    <city>Richmond</city>
+    <facility_name>Hunter Holmes McGuire VAMC</facility_name>
+    <visn_name>VA Mid-Atlantic Health Care Network</visn_name>
+    <visn>6</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry111">
+    <staffing_other_health_professionals>116</staffing_other_health_professionals>
+    <staffing_nursing>100</staffing_nursing>
+    <staffing_physicians>28</staffing_physicians>
+    <state>WY</state>
+    <city>Cheyenne</city>
+    <facility_name>VAM/ROC</facility_name>
+    <visn_name>Rocky Mountain Network</visn_name>
+    <visn>19</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry1">
+    <staffing_other_health_professionals>580</staffing_other_health_professionals>
+    <staffing_nursing>449</staffing_nursing>
+    <staffing_physicians>239</staffing_physicians>
+    <state>CT</state>
+    <city>West Haven</city>
+    <facility_name>VA Connecticut HCS</facility_name>
+    <visn_name>VA New England Health Care System</visn_name>
+    <visn>1</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry113">
+    <staffing_other_health_professionals>113</staffing_other_health_professionals>
+    <staffing_nursing>119</staffing_nursing>
+    <staffing_physicians>32</staffing_physicians>
+    <state>AK</state>
+    <city>Anchorage</city>
+    <facility_name>Alaska VA HCS and Regional Office</facility_name>
+    <visn_name>Northwest Network</visn_name>
+    <visn>20</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry16">
+    <staffing_other_health_professionals>1,000</staffing_other_health_professionals>
+    <staffing_nursing>778</staffing_nursing>
+    <staffing_physicians>280</staffing_physicians>
+    <state>NY</state>
+    <city>New York Harbor</city>
+    <facility_name>VA NY Harbor HCSNY Harbor Brooklyn</facility_name>
+    <visn_name>VA NY/NJ Veterans Healthcare Network</visn_name>
+    <visn>3</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry80">
+    <staffing_other_health_professionals>555</staffing_other_health_professionals>
+    <staffing_nursing>328</staffing_nursing>
+    <staffing_physicians>82</staffing_physicians>
+    <state>KS</state>
+    <city>Topeka</city>
+    <facility_name>VA Eastern Kansas HCS Topeka Leavenworth</facility_name>
+    <visn_name>VA Heartland Network</visn_name>
+    <visn>15</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry132">
+    <staffing_other_health_professionals>878</staffing_other_health_professionals>
+    <staffing_nursing>725</staffing_nursing>
+    <staffing_physicians>165</staffing_physicians>
+    <state>NE</state>
+    <city>Omaha</city>
+    <facility_name>VA Nebraska Western Iowa HCS  Omaha Grand Is Lincoln</facility_name>
+    <visn_name>VA Midwest Health Care Network</visn_name>
+    <visn>23</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry122">
+    <staffing_other_health_professionals>471</staffing_other_health_professionals>
+    <staffing_nursing>449</staffing_nursing>
+    <staffing_physicians>216</staffing_physicians>
+    <state>CA</state>
+    <city>Martinez, East Bay</city>
+    <facility_name>VA Northern California HCS Martinez Sacramento</facility_name>
+    <visn_name>Sierra Pacific Network</visn_name>
+    <visn>21</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry77">
+    <staffing_other_health_professionals>385</staffing_other_health_professionals>
+    <staffing_nursing>358</staffing_nursing>
+    <staffing_physicians>122</staffing_physicians>
+    <state>WI</state>
+    <city>Madison</city>
+    <facility_name>William S. Middleton Memorial Veterans Hospital</facility_name>
+    <visn_name>The Great Lakes Health Care System</visn_name>
+    <visn>12</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry103">
+    <staffing_other_health_professionals>579</staffing_other_health_professionals>
+    <staffing_nursing>458</staffing_nursing>
+    <staffing_physicians>152</staffing_physicians>
+    <state>NM</state>
+    <city>Albuquerque</city>
+    <facility_name>New Mexico HCS</facility_name>
+    <visn_name>VA Southwest Health Care Network</visn_name>
+    <visn>18</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry57">
+    <staffing_other_health_professionals>612</staffing_other_health_professionals>
+    <staffing_nursing>401</staffing_nursing>
+    <staffing_physicians>144</staffing_physicians>
+    <state>TN</state>
+    <city>Memphis</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Mid South Healthcare Network</visn_name>
+    <visn>9</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry97">
+    <staffing_other_health_professionals>1,372</staffing_other_health_professionals>
+    <staffing_nursing>960</staffing_nursing>
+    <staffing_physicians>261</staffing_physicians>
+    <state>TX</state>
+    <city>Dallas</city>
+    <facility_name>VA North Texas HCS</facility_name>
+    <visn_name>VA Heart of Texas Health Care Network</visn_name>
+    <visn>17</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry22">
+    <staffing_other_health_professionals>325</staffing_other_health_professionals>
+    <staffing_nursing>267</staffing_nursing>
+    <staffing_physicians>36</staffing_physicians>
+    <state>PA</state>
+    <city>Coatesville</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Stars &amp; Stripes Healthcare Network</visn_name>
+    <visn>4</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry63">
+    <staffing_other_health_professionals>906</staffing_other_health_professionals>
+    <staffing_nursing>903</staffing_nursing>
+    <staffing_physicians>256</staffing_physicians>
+    <state>OH</state>
+    <city>Cleveland</city>
+    <facility_name>Louis Stokes VA Medical CenterCleveland Brecksville</facility_name>
+    <visn_name>VA Health Care System of Ohio</visn_name>
+    <visn>10</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry60">
+    <staffing_other_health_professionals>301</staffing_other_health_professionals>
+    <staffing_nursing>233</staffing_nursing>
+    <staffing_physicians>77</staffing_physicians>
+    <state>WV</state>
+    <city>Huntington</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Mid South Healthcare Network</visn_name>
+    <visn>9</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry112">
+    <staffing_other_health_professionals>145</staffing_other_health_professionals>
+    <staffing_nursing>116</staffing_nursing>
+    <staffing_physicians>21</staffing_physicians>
+    <state>WY</state>
+    <city>Sheridan</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>Rocky Mountain Network</visn_name>
+    <visn>19</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry43">
+    <staffing_other_health_professionals>635</staffing_other_health_professionals>
+    <staffing_nursing>599</staffing_nursing>
+    <staffing_physicians>233</staffing_physicians>
+    <state>GA</state>
+    <city>Atlanta</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Southeast Network</visn_name>
+    <visn>7</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry36">
+    <staffing_other_health_professionals>378</staffing_other_health_professionals>
+    <staffing_nursing>373</staffing_nursing>
+    <staffing_physicians>87</staffing_physicians>
+    <state>VA</state>
+    <city>Hampton</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Mid-Atlantic Health Care Network</visn_name>
+    <visn>6</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry73">
+    <staffing_other_health_professionals>501</staffing_other_health_professionals>
+    <staffing_nursing>467</staffing_nursing>
+    <staffing_physicians>213</staffing_physicians>
+    <state>IL</state>
+    <city>Chicago, West Side</city>
+    <facility_name>VA Chicago HCS; (Jessie Brown)</facility_name>
+    <visn_name>The Great Lakes Health Care System</visn_name>
+    <visn>12</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry50">
+    <staffing_other_health_professionals>812</staffing_other_health_professionals>
+    <staffing_nursing>553</staffing_nursing>
+    <staffing_physicians>195</staffing_physicians>
+    <state>FL</state>
+    <city>Miami</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Sunshine Healthcare Network</visn_name>
+    <visn>8</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry3">
+    <staffing_other_health_professionals>1064</staffing_other_health_professionals>
+    <staffing_nursing>799</staffing_nursing>
+    <staffing_physicians>256</staffing_physicians>
+    <state>MA</state>
+    <city>West Roxbury</city>
+    <facility_name>VA Boston HCSW Roxbury Brockton Jamaica Plns</facility_name>
+    <visn_name>VA New England Health Care System</visn_name>
+    <visn>1</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry123">
+    <staffing_other_health_professionals>974</staffing_other_health_professionals>
+    <staffing_nursing>922</staffing_nursing>
+    <staffing_physicians>276</staffing_physicians>
+    <state>CA</state>
+    <city>Palo Alto</city>
+    <facility_name>VA Palo Alto HCSPaloAlto MenloPk Livermore</facility_name>
+    <visn_name>Sierra Pacific Network</visn_name>
+    <visn>21</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry78">
+    <staffing_other_health_professionals>706</staffing_other_health_professionals>
+    <staffing_nursing>701</staffing_nursing>
+    <staffing_physicians>229</staffing_physicians>
+    <state>WI</state>
+    <city>Milwaukee</city>
+    <facility_name>Clement J. Zablocki VAMC</facility_name>
+    <visn_name>The Great Lakes Health Care System</visn_name>
+    <visn>12</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry48">
+    <staffing_other_health_professionals>765</staffing_other_health_professionals>
+    <staffing_nursing>771</staffing_nursing>
+    <staffing_physicians>258</staffing_physicians>
+    <state>FL</state>
+    <city>Bay Pines</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Sunshine Healthcare Network</visn_name>
+    <visn>8</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry58">
+    <staffing_other_health_professionals>403</staffing_other_health_professionals>
+    <staffing_nursing>414</staffing_nursing>
+    <staffing_physicians>127</staffing_physicians>
+    <state>TN</state>
+    <city>Mountain Home</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Mid South Healthcare Network</visn_name>
+    <visn>9</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry68">
+    <staffing_other_health_professionals>585</staffing_other_health_professionals>
+    <staffing_nursing>560</staffing_nursing>
+    <staffing_physicians>146</staffing_physicians>
+    <state>IN</state>
+    <city>Indianapolis</city>
+    <facility_name>Richard L. Roudebush VA Medical Center</facility_name>
+    <visn_name>Veterans In Partnership</visn_name>
+    <visn>11</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry21">
+    <staffing_other_health_professionals>129</staffing_other_health_professionals>
+    <staffing_nursing>119</staffing_nursing>
+    <staffing_physicians>18</staffing_physicians>
+    <state>PA</state>
+    <city>Butler</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Stars &amp; Stripes Healthcare Network</visn_name>
+    <visn>4</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry40">
+    <staffing_other_health_professionals>503</staffing_other_health_professionals>
+    <staffing_nursing>433</staffing_nursing>
+    <staffing_physicians>177</staffing_physicians>
+    <state>AL</state>
+    <city>Birmingham</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Southeast Network</visn_name>
+    <visn>7</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry11">
+    <staffing_other_health_professionals>137</staffing_other_health_professionals>
+    <staffing_nursing>150</staffing_nursing>
+    <staffing_physicians>18</staffing_physicians>
+    <state>NY</state>
+    <city>Bath</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Healthcare Network Upstate New York</visn_name>
+    <visn>2</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry83">
+    <staffing_other_health_professionals>406</staffing_other_health_professionals>
+    <staffing_nursing>301</staffing_nursing>
+    <staffing_physicians>102</staffing_physicians>
+    <state>MO</state>
+    <city>Kansas City</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Heartland Network</visn_name>
+    <visn>15</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry104">
+    <staffing_other_health_professionals>260</staffing_other_health_professionals>
+    <staffing_nursing>231</staffing_nursing>
+    <staffing_physicians>51</staffing_physicians>
+    <state>TX</state>
+    <city>Amarillo</city>
+    <facility_name>Amarillo VA HCS</facility_name>
+    <visn_name>VA Southwest Health Care Network</visn_name>
+    <visn>18</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry29">
+    <staffing_other_health_professionals>621</staffing_other_health_professionals>
+    <staffing_nursing>515</staffing_nursing>
+    <staffing_physicians>179</staffing_physicians>
+    <state>DC</state>
+    <city>Washington</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Capitol Health Care Network</visn_name>
+    <visn>5</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry18">
+    <staffing_other_health_professionals>579</staffing_other_health_professionals>
+    <staffing_nursing>366</staffing_nursing>
+    <staffing_physicians>123</staffing_physicians>
+    <state>NY</state>
+    <city>Northport</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA NY/NJ Veterans Healthcare Network</visn_name>
+    <visn>3</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry39">
+    <staffing_other_health_professionals>188</staffing_other_health_professionals>
+    <staffing_nursing>140</staffing_nursing>
+    <staffing_physicians>28</staffing_physicians>
+    <state>WV</state>
+    <city>Beckley</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Mid-Atlantic Health Care Network</visn_name>
+    <visn>6</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry87">
+    <staffing_other_health_professionals>310</staffing_other_health_professionals>
+    <staffing_nursing>272</staffing_nursing>
+    <staffing_physicians>75</staffing_physicians>
+    <state>AR</state>
+    <city>Fayetteville</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>South Central VA Health Care Network</visn_name>
+    <visn>16</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry138">
+    <staffing_other_health_professionals>240</staffing_other_health_professionals>
+    <staffing_nursing>254</staffing_nursing>
+    <staffing_physicians>44</staffing_physicians>
+    <state>SD</state>
+    <city>Fort Meade</city>
+    <facility_name>VA Black Hills HCSFt Meade Hot Springs</facility_name>
+    <visn_name>VA Midwest Health Care Network</visn_name>
+    <visn>23</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry31">
+    <staffing_other_health_professionals>367</staffing_other_health_professionals>
+    <staffing_nursing>315</staffing_nursing>
+    <staffing_physicians>60</staffing_physicians>
+    <state>WV</state>
+    <city>Martinsburg</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Capitol Health Care Network</visn_name>
+    <visn>5</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry90">
+    <staffing_other_health_professionals>199</staffing_other_health_professionals>
+    <staffing_nursing>183</staffing_nursing>
+    <staffing_physicians>98</staffing_physicians>
+    <state>LA</state>
+    <city>New Orleans</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>South Central VA Health Care Network</visn_name>
+    <visn>16</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry124">
+    <staffing_other_health_professionals>515</staffing_other_health_professionals>
+    <staffing_nursing>496</staffing_nursing>
+    <staffing_physicians>220</staffing_physicians>
+    <state>CA</state>
+    <city>San Francisco</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>Sierra Pacific Network</visn_name>
+    <visn>21</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry130">
+    <staffing_other_health_professionals>613</staffing_other_health_professionals>
+    <staffing_nursing>685</staffing_nursing>
+    <staffing_physicians>271</staffing_physicians>
+    <state>CA</state>
+    <city>San Diego</city>
+    <facility_name>VA San Diego HCS</facility_name>
+    <visn_name>Desert Pacific Healthcare Network</visn_name>
+    <visn>22</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry118">
+    <staffing_other_health_professionals>868</staffing_other_health_professionals>
+    <staffing_nursing>759</staffing_nursing>
+    <staffing_physicians>219</staffing_physicians>
+    <state>WA</state>
+    <city>Seattle</city>
+    <facility_name>VA Puget Sound HCS�  Seattle American Lake</facility_name>
+    <visn_name>Northwest Network</visn_name>
+    <visn>20</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry2">
+    <staffing_other_health_professionals>270</staffing_other_health_professionals>
+    <staffing_nursing>243</staffing_nursing>
+    <staffing_physicians>46</staffing_physicians>
+    <state>MA</state>
+    <city>Bedford</city>
+    <facility_name>Edith Nourse Rogers Memorial Veterans Hospital</facility_name>
+    <visn_name>VA New England Health Care System</visn_name>
+    <visn>1</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry4">
+    <staffing_other_health_professionals>186</staffing_other_health_professionals>
+    <staffing_nursing>119</staffing_nursing>
+    <staffing_physicians>29</staffing_physicians>
+    <state>MA</state>
+    <city>Northampton</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA New England Health Care System</visn_name>
+    <visn>1</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry51">
+    <staffing_other_health_professionals>499</staffing_other_health_professionals>
+    <staffing_nursing>297</staffing_nursing>
+    <staffing_physicians>122</staffing_physicians>
+    <state>FL</state>
+    <city>Orlando</city>
+    <facility_name>East Central Florida HCS</facility_name>
+    <visn_name>VA Sunshine Healthcare Network</visn_name>
+    <visn>8</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry72">
+    <staffing_other_health_professionals>186</staffing_other_health_professionals>
+    <staffing_nursing>194</staffing_nursing>
+    <staffing_physicians>30</staffing_physicians>
+    <state>MI</state>
+    <city>Saginaw</city>
+    <facility_name>Aleda E. Lutz VA Medical Center</facility_name>
+    <visn_name>Veterans In Partnership</visn_name>
+    <visn>11</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry79">
+    <staffing_other_health_professionals>272</staffing_other_health_professionals>
+    <staffing_nursing>158</staffing_nursing>
+    <staffing_physicians>28</staffing_physicians>
+    <state>WI</state>
+    <city>Tomah</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>The Great Lakes Health Care System</visn_name>
+    <visn>12</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry49">
+    <staffing_other_health_professionals>1361</staffing_other_health_professionals>
+    <staffing_nursing>1050</staffing_nursing>
+    <staffing_physicians>314</staffing_physicians>
+    <state>FL</state>
+    <city>Gainesville</city>
+    <facility_name>N FLA/S GA Veterans HS Gainesville Lake Cty</facility_name>
+    <visn_name>VA Sunshine Healthcare Network</visn_name>
+    <visn>8</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry86">
+    <staffing_other_health_professionals>664</staffing_other_health_professionals>
+    <staffing_nursing>411</staffing_nursing>
+    <staffing_physicians>196</staffing_physicians>
+    <state>MO</state>
+    <city>St. Louis</city>
+    <facility_name>St Louis VAMC St Louis Jefferson Barracks</facility_name>
+    <visn_name>VA Heartland Network</visn_name>
+    <visn>15</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry59">
+    <staffing_other_health_professionals>814</staffing_other_health_professionals>
+    <staffing_nursing>890</staffing_nursing>
+    <staffing_physicians>271</staffing_physicians>
+    <state>TN</state>
+    <city>Nashville</city>
+    <facility_name>Tennessee Valley HCSNashville Murfreesboro</facility_name>
+    <visn_name>VA Mid South Healthcare Network</visn_name>
+    <visn>9</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry82">
+    <staffing_other_health_professionals>409</staffing_other_health_professionals>
+    <staffing_nursing>252</staffing_nursing>
+    <staffing_physicians>70</staffing_physicians>
+    <state>MO</state>
+    <city>Columbia</city>
+    <facility_name>Harry S. Truman Memorial</facility_name>
+    <visn_name>VA Heartland Network</visn_name>
+    <visn>15</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry41">
+    <staffing_other_health_professionals>399</staffing_other_health_professionals>
+    <staffing_nursing>300</staffing_nursing>
+    <staffing_physicians>68</staffing_physicians>
+    <state>AL</state>
+    <city>Montgomery</city>
+    <facility_name>Central Alabama Veterans HCS Tuskeegee Montgomery</facility_name>
+    <visn_name>VA Southeast Network</visn_name>
+    <visn>7</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry10">
+    <staffing_other_health_professionals>482</staffing_other_health_professionals>
+    <staffing_nursing>497</staffing_nursing>
+    <staffing_physicians>132</staffing_physicians>
+    <state>NY</state>
+    <city>Buffalo</city>
+    <facility_name>VA Western New York HCS Buffalo Batavia</facility_name>
+    <visn_name>VA Healthcare Network Upstate New York</visn_name>
+    <visn>2</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry69">
+    <staffing_other_health_professionals>445</staffing_other_health_professionals>
+    <staffing_nursing>408</staffing_nursing>
+    <staffing_physicians>184</staffing_physicians>
+    <state>MI</state>
+    <city>Ann Arbor</city>
+    <facility_name>Ann Arbor VA Ann Arbor HCS</facility_name>
+    <visn_name>Veterans In Partnership</visn_name>
+    <visn>11</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry38">
+    <staffing_other_health_professionals>455</staffing_other_health_professionals>
+    <staffing_nursing>396</staffing_nursing>
+    <staffing_physicians>91</staffing_physicians>
+    <state>VA</state>
+    <city>Salem</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Mid-Atlantic Health Care Network</visn_name>
+    <visn>6</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry110">
+    <staffing_other_health_professionals>378</staffing_other_health_professionals>
+    <staffing_nursing>396</staffing_nursing>
+    <staffing_physicians>158</staffing_physicians>
+    <state>UT</state>
+    <city>Salt Lake City</city>
+    <facility_name>VA Salt Lake City HCS</facility_name>
+    <visn_name>Rocky Mountain Network</visn_name>
+    <visn>19</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry19">
+    <staffing_other_health_professionals>211</staffing_other_health_professionals>
+    <staffing_nursing>238</staffing_nursing>
+    <staffing_physicians>50</staffing_physicians>
+    <state>DE</state>
+    <city>Wilmington</city>
+    <facility_name>VAM&amp;RO</facility_name>
+    <visn_name>VA Stars &amp; Stripes Healthcare Network</visn_name>
+    <visn>4</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry139">
+    <staffing_other_health_professionals>213</staffing_other_health_professionals>
+    <staffing_nursing>239</staffing_nursing>
+    <staffing_physicians>44</staffing_physicians>
+    <state>SD</state>
+    <city>Sioux Falls</city>
+    <facility_name>VAM/ROC</facility_name>
+    <visn_name>VA Midwest Health Care Network</visn_name>
+    <visn>23</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry105">
+    <staffing_other_health_professionals>107</staffing_other_health_professionals>
+    <staffing_nursing>114</staffing_nursing>
+    <staffing_physicians>18</staffing_physicians>
+    <state>TX</state>
+    <city>Big Spring</city>
+    <facility_name>West Texas VA HCS</facility_name>
+    <visn_name>VA Southwest Health Care Network</visn_name>
+    <visn>18</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry20">
+    <staffing_other_health_professionals>142</staffing_other_health_professionals>
+    <staffing_nursing>142</staffing_nursing>
+    <staffing_physicians>27</staffing_physicians>
+    <state>PA</state>
+    <city>Altoona</city>
+    <facility_name>James E. Van Zandt VA Medical Center</facility_name>
+    <visn_name>VA Stars &amp; Stripes Healthcare Network</visn_name>
+    <visn>4</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry119">
+    <staffing_other_health_professionals>193</staffing_other_health_professionals>
+    <staffing_nursing>208</staffing_nursing>
+    <staffing_physicians>48</staffing_physicians>
+    <state>WA</state>
+    <city>Spokane</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>Northwest Network</visn_name>
+    <visn>20</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry125">
+    <staffing_other_health_professionals>140</staffing_other_health_professionals>
+    <staffing_nursing>123</staffing_nursing>
+    <staffing_physicians>52</staffing_physicians>
+    <state>HI</state>
+    <city>Honolulu</city>
+    <facility_name>VA Pacific Islands HCSSpark M. Matsunaga VA Medical &amp; Regional Office Center</facility_name>
+    <visn_name>Sierra Pacific Network</visn_name>
+    <visn>21</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry30">
+    <staffing_other_health_professionals>749</staffing_other_health_professionals>
+    <staffing_nursing>667</staffing_nursing>
+    <staffing_physicians>198</staffing_physicians>
+    <state>MD</state>
+    <city>Baltimore</city>
+    <facility_name>VA Maryland HCSBaltimore Perry Pt</facility_name>
+    <visn_name>VA Capitol Health Care Network</visn_name>
+    <visn>5</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry91">
+    <staffing_other_health_professionals>375</staffing_other_health_professionals>
+    <staffing_nursing>364</staffing_nursing>
+    <staffing_physicians>107</staffing_physicians>
+    <state>LA</state>
+    <city>Shreveport</city>
+    <facility_name>Overton Brooks VA Medical Center</facility_name>
+    <visn_name>South Central VA Health Care Network</visn_name>
+    <visn>16</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry28">
+    <staffing_other_health_professionals>214</staffing_other_health_professionals>
+    <staffing_nursing>185</staffing_nursing>
+    <staffing_physicians>45</staffing_physicians>
+    <state>WV</state>
+    <city>Clarksburg</city>
+    <facility_name>Louis A. Johnson VAMC</facility_name>
+    <visn_name>VA Stars &amp; Stripes Healthcare Network</visn_name>
+    <visn>4</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry33">
+    <staffing_other_health_professionals>680</staffing_other_health_professionals>
+    <staffing_nursing>553</staffing_nursing>
+    <staffing_physicians>206</staffing_physicians>
+    <state>NC</state>
+    <city>Durham</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Mid-Atlantic Health Care Network</visn_name>
+    <visn>6</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry71">
+    <staffing_other_health_professionals>551</staffing_other_health_professionals>
+    <staffing_nursing>376</staffing_nursing>
+    <staffing_physicians>134</staffing_physicians>
+    <state>MI</state>
+    <city>Detroit</city>
+    <facility_name>John D. Dingell VA Medical Center</facility_name>
+    <visn_name>Veterans In Partnership</visn_name>
+    <visn>11</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry5">
+    <staffing_other_health_professionals>360</staffing_other_health_professionals>
+    <staffing_nursing>251</staffing_nursing>
+    <staffing_physicians>74</staffing_physicians>
+    <state>ME</state>
+    <city>Togus</city>
+    <facility_name>VAMC/RO</facility_name>
+    <visn_name>VA New England Health Care System</visn_name>
+    <visn>1</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry46">
+    <staffing_other_health_professionals>336</staffing_other_health_professionals>
+    <staffing_nursing>361</staffing_nursing>
+    <staffing_physicians>130</staffing_physicians>
+    <state>SC</state>
+    <city>Charleston</city>
+    <facility_name>Ralph H. Johnson VAMC</facility_name>
+    <visn_name>VA Southeast Network</visn_name>
+    <visn>7</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry52">
+    <staffing_other_health_professionals>1,254</staffing_other_health_professionals>
+    <staffing_nursing>1,128</staffing_nursing>
+    <staffing_physicians>313</staffing_physicians>
+    <state>FL</state>
+    <city>Tampa</city>
+    <facility_name>James A. Haley VA Medical Center</facility_name>
+    <visn_name>VA Sunshine Healthcare Network</visn_name>
+    <visn>8</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry85">
+    <staffing_other_health_professionals>153</staffing_other_health_professionals>
+    <staffing_nursing>84</staffing_nursing>
+    <staffing_physicians>24</staffing_physicians>
+    <state>MO</state>
+    <city>Poplar Bluff</city>
+    <facility_name>John J. Pershing VA Medical Center</facility_name>
+    <visn_name>VA Heartland Network</visn_name>
+    <visn>15</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry13">
+    <staffing_other_health_professionals>333</staffing_other_health_professionals>
+    <staffing_nursing>445</staffing_nursing>
+    <staffing_physicians>130</staffing_physicians>
+    <state>NY</state>
+    <city>Syracuse</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Healthcare Network Upstate New York</visn_name>
+    <visn>2</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry66">
+    <staffing_other_health_professionals>422</staffing_other_health_professionals>
+    <staffing_nursing>321</staffing_nursing>
+    <staffing_physicians>56</staffing_physicians>
+    <state>IL</state>
+    <city>Danville</city>
+    <facility_name>VA Illiana HCS</facility_name>
+    <visn_name>Veterans In Partnership</visn_name>
+    <visn>11</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry136">
+    <staffing_other_health_professionals>325</staffing_other_health_professionals>
+    <staffing_nursing>319</staffing_nursing>
+    <staffing_physicians>30</staffing_physicians>
+    <state>MN</state>
+    <city>St. Cloud</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Midwest Health Care Network</visn_name>
+    <visn>23</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry106">
+    <staffing_other_health_professionals>97</staffing_other_health_professionals>
+    <staffing_nursing>73</staffing_nursing>
+    <staffing_physicians>41</staffing_physicians>
+    <state>TX</state>
+    <city>El Paso</city>
+    <facility_name>El Paso VA HCS</facility_name>
+    <visn_name>VA Southwest Health Care Network</visn_name>
+    <visn>18</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry89">
+    <staffing_other_health_professionals>283</staffing_other_health_professionals>
+    <staffing_nursing>356</staffing_nursing>
+    <staffing_physicians>60</staffing_physicians>
+    <state>LA</state>
+    <city>Alexandria</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>South Central VA Health Care Network</visn_name>
+    <visn>16</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry116">
+    <staffing_other_health_professionals>228</staffing_other_health_professionals>
+    <staffing_nursing>212</staffing_nursing>
+    <staffing_physicians>36</staffing_physicians>
+    <state>OR</state>
+    <city>Roseburg</city>
+    <facility_name>VA Roseburg HCS</facility_name>
+    <visn_name>Northwest Network</visn_name>
+    <visn>20</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry27">
+    <staffing_other_health_professionals>323</staffing_other_health_professionals>
+    <staffing_nursing>223</staffing_nursing>
+    <staffing_physicians>78</staffing_physicians>
+    <state>PA</state>
+    <city>Wilkes-Barre</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Stars &amp; Stripes Healthcare Network</visn_name>
+    <visn>4</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry99">
+    <staffing_other_health_professionals>761</staffing_other_health_professionals>
+    <staffing_nursing>65</staffing_nursing>
+    <staffing_physicians>192</staffing_physicians>
+    <state>TX</state>
+    <city>Temple</city>
+    <facility_name>Central Texas Veterans HCSTemple Waco Marlin</facility_name>
+    <visn_name>VA Heart of Texas Health Care Network</visn_name>
+    <visn>17</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry92">
+    <staffing_other_health_professionals>569</staffing_other_health_professionals>
+    <staffing_nursing>345</staffing_nursing>
+    <staffing_physicians>103</staffing_physicians>
+    <state>MS</state>
+    <city>Biloxi</city>
+    <facility_name>VA Gulf Coast Veterans HCS</facility_name>
+    <visn_name>South Central VA Health Care Network</visn_name>
+    <visn>16</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry126">
+    <staffing_other_health_professionals>230</staffing_other_health_professionals>
+    <staffing_nursing>244</staffing_nursing>
+    <staffing_physicians>61</staffing_physicians>
+    <state>NV</state>
+    <city>Reno</city>
+    <facility_name>VA Sierra Nevada HCS</facility_name>
+    <visn_name>Sierra Pacific Network</visn_name>
+    <visn>21</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry32">
+    <staffing_other_health_professionals>395</staffing_other_health_professionals>
+    <staffing_nursing>368</staffing_nursing>
+    <staffing_physicians>88</staffing_physicians>
+    <state>NC</state>
+    <city>Asheville</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Mid-Atlantic Health Care Network</visn_name>
+    <visn>6</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry70">
+    <staffing_other_health_professionals>400</staffing_other_health_professionals>
+    <staffing_nursing>229</staffing_nursing>
+    <staffing_physicians>49</staffing_physicians>
+    <state>MI</state>
+    <city>Battle Creek</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>Veterans In Partnership</visn_name>
+    <visn>11</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry47">
+    <staffing_other_health_professionals>512</staffing_other_health_professionals>
+    <staffing_nursing>381</staffing_nursing>
+    <staffing_physicians>112</staffing_physicians>
+    <state>SC</state>
+    <city>Columbia</city>
+    <facility_name>Wm. Jennings Bryan Dorn VAMC</facility_name>
+    <visn_name>VA Southeast Network</visn_name>
+    <visn>7</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry53">
+    <staffing_other_health_professionals>691</staffing_other_health_professionals>
+    <staffing_nursing>398</staffing_nursing>
+    <staffing_physicians>166</staffing_physicians>
+    <state>FL</state>
+    <city>West Palm Beach</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Sunshine Healthcare Network</visn_name>
+    <visn>8</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry6">
+    <staffing_other_health_professionals>185</staffing_other_health_professionals>
+    <staffing_nursing>135</staffing_nursing>
+    <staffing_physicians>34</staffing_physicians>
+    <state>NH</state>
+    <city>Manchester</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA New England Health Care System</visn_name>
+    <visn>1</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry12">
+    <staffing_other_health_professionals>231</staffing_other_health_professionals>
+    <staffing_nursing>182</staffing_nursing>
+    <staffing_physicians>33</staffing_physicians>
+    <state>NY</state>
+    <city>Canandaigua</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Healthcare Network Upstate New York</visn_name>
+    <visn>2</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry84">
+    <staffing_other_health_professionals>313</staffing_other_health_professionals>
+    <staffing_nursing>223</staffing_nursing>
+    <staffing_physicians>60</staffing_physicians>
+    <state>IL</state>
+    <city>Marion</city>
+    <facility_name>VAMC</facility_name>
+    <visn_name>VA Heartland Network</visn_name>
+    <visn>15</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry67">
+    <staffing_other_health_professionals>356</staffing_other_health_professionals>
+    <staffing_nursing>267</staffing_nursing>
+    <staffing_physicians>45</staffing_physicians>
+    <state>IN</state>
+    <city>Marion</city>
+    <facility_name>VA Northern Indiana HCS Marion Ft Wayne</facility_name>
+    <visn_name>Veterans In Partnership</visn_name>
+    <visn>11</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry137">
+    <staffing_other_health_professionals>173</staffing_other_health_professionals>
+    <staffing_nursing>221</staffing_nursing>
+    <staffing_physicians>52</staffing_physicians>
+    <state>ND</state>
+    <city>Fargo</city>
+    <facility_name>VAM/RO</facility_name>
+    <visn_name>VA Midwest Health Care Network</visn_name>
+    <visn>23</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry107">
+    <staffing_other_health_professionals>508</staffing_other_health_professionals>
+    <staffing_nursing>413</staffing_nursing>
+    <staffing_physicians>178</staffing_physicians>
+    <state>CO</state>
+    <city>Denver</city>
+    <facility_name>Eastern Colorado HCS Denver Pueblo</facility_name>
+    <visn_name>Rocky Mountain Network</visn_name>
+    <visn>19</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry88">
+    <staffing_other_health_professionals>817</staffing_other_health_professionals>
+    <staffing_nursing>759</staffing_nursing>
+    <staffing_physicians>222</staffing_physicians>
+    <state>AR</state>
+    <city>Little Rock</city>
+    <facility_name>Central Arkansas Veterans HCSLittle Rock Little Rock N</facility_name>
+    <visn_name>South Central VA Health Care Network</visn_name>
+    <visn>16</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry26">
+    <staffing_other_health_professionals>829</staffing_other_health_professionals>
+    <staffing_nursing>831</staffing_nursing>
+    <staffing_physicians>176</staffing_physicians>
+    <state>PA</state>
+    <city>Pittsburgh</city>
+    <facility_name>VA Pittsburgh HCSHeinz Univ Dr Highld Dr</facility_name>
+    <visn_name>VA Stars &amp; Stripes Healthcare Network</visn_name>
+    <visn>4</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry117">
+    <staffing_other_health_professionals>102</staffing_other_health_professionals>
+    <staffing_nursing>63</staffing_nursing>
+    <staffing_physicians>20</staffing_physicians>
+    <state>OR</state>
+    <city>White City</city>
+    <facility_name>Southern Oregon Rehab Ctr &amp; Clinics</facility_name>
+    <visn_name>Northwest Network</visn_name>
+    <visn>20</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry127">
+    <staffing_other_health_professionals>625</staffing_other_health_professionals>
+    <staffing_nursing>535</staffing_nursing>
+    <staffing_physicians>166</staffing_physicians>
+    <state>CA</state>
+    <city>Loma Linda</city>
+    <facility_name>VA Loma Linda HCS</facility_name>
+    <visn_name>Desert Pacific Healthcare Network</visn_name>
+    <visn>22</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <dcterms:identifier>/work/data-gov/data/input/data.gov/1205/DataGov_VHA_Hospital_Medical_Center_Staffing.csv</dcterms:identifier>
+    <rdfs:seeAlso rdf:resource="http://data-gov.tw.rpi.edu/raw/1205/index.rdf#me"/>
+    <dcterms:description>generated by csv2rdf CSV2RDF (v1.1, 2009-01-28). http://data-gov.tw.rpi.edu/wiki/Source_Code_of_Data.gov_Wiki#Source_Code_of_Demos_and_Applications. </dcterms:description>
+    <dcterms:creator rdf:resource="http://tw.rpi.edu"/>
+    <dcterms:date>2010-05-10T19:49:36Z</dcterms:date>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry93">
+    <staffing_other_health_professionals>595</staffing_other_health_professionals>
+    <staffing_nursing>462</staffing_nursing>
+    <staffing_physicians>137</staffing_physicians>
+    <state>MS</state>
+    <city>Jackson</city>
+    <facility_name>G.V. (Sonny) Montgomery VA Medical Center</facility_name>
+    <visn_name>South Central VA Health Care Network</visn_name>
+    <visn>16</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry98">
+    <staffing_other_health_professionals>703</staffing_other_health_professionals>
+    <staffing_nursing>904</staffing_nursing>
+    <staffing_physicians>383</staffing_physicians>
+    <state>TX</state>
+    <city>San Antonio</city>
+    <facility_name>South Texas Veterans HCS  SanAntonio Kerrville</facility_name>
+    <visn_name>VA Heart of Texas Health Care Network</visn_name>
+    <visn>17</visn>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+</rdf:RDF>
