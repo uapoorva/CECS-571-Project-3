@@ -1,201 +1,290 @@
 <!DOCTYPE html>
 <html>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link
-    rel="stylesheet"
-    type="text/css"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.css"
-  />
-  <style>
-    table {
-      font-family: Arial, Helvetica, sans-serif;
-      border-collapse: collapse;
-      width: 50%;
-    }
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.css" />
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+  integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+<style>
 
-    table td, table th {
-      border: 1px solid #ddd;
-      padding: 8px;
-    }
+/* Table Styles */
 
-    table tr:nth-child(even){background-color: #E1E6FF;}
-
-    table tr:hover {background-color: #C3CAFF;}
-
-    table th {
-      padding-top: 12px;
-      padding-bottom: 12px;
-      text-align: left;
-      background-color: #6c7ae0;
-      color: white;
-    }
-    div.heading1{
-    	text-align: center;
-    	color: White;
-    	text-shadow: 2px 2px 4px #000000;
-    	height: 100px;
-    	weight: 1000px;
-    	background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
-    	background-repeat: None
-    	background-size: 957px 100px
-    }
-    img.a{
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      border:5px solid #555;
-    }
-    html {
-      box-sizing: border-box;
-    }
-
-    *, *:before, *:after {
-      box-sizing: inherit;
-    }
-    .column {
-      float: left;
-      width: 25%;
-      margin-bottom: 16px;
-      padding: 0 8px;
-    }
-
-    .card {
-      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    }
-
-    .container1 {
-      padding: 0 16px;
-    }
-
-    body{
-    	background-color: Antique White;
-    }
-  </style>
-  <body>
-    <div class="heading1">
-      <h1>CECS 571 Fundamentals of Semantic Web Technologies</h1>
-      <h2>Semantic Data Retrieval</h2>
-    </div>
-    <br />
-    <br />
-    <div style="text-align: center">
-      <button onclick="showPopulationByState()">Population by State</button>
-      <button onclick="showExpenditureByState()">Expenditure by State</button>
-      <button onclick="showVetAge()">Veterans By Age</button>
-      <button onclick="showVetCases()">Veteran Cases</button>
-      <button onclick="showVetPerStaff()">Veterans per Staff</button>
-    </div>
-    <div class="showDiv">
-      <p></p>
-      <button></button>
-      <table class="t"></table>
-    </div>
-    <!-- <div hidden>
-      <p>Expenditure by State</p>
-      <table class="expenditureByState"></table>
-    </div>
-    <div hidden>
-      <p>Veterans By Age</p>
-      <table class="vetAge"></table>
-    </div>
-    <div hidden>
-      <p>Veteran Cases</p>
-      <table class="vetCases"></table>
-    </div>
-    <div hidden>
-      <p>Veterans per Staff</p>
-      <table class="vetPerStaff"></table>
-    </div> -->
-  </body>
-  <script>
-    function emptyDiv() {
-      let p = document.querySelector(".showDiv p");
-      p.innerHTML = "";
-      let table = document.querySelector(".showDiv table");
-      table.innerHTML = "";
-    }
-    function showButtons() {
-      let b = document.querySelector(".showDiv button");
-      b.innerHTML = "Query results";
-    }
-    function showPopulationByState() {
-      emptyDiv();
-      fetchFunction("/populationByState");
-    }
-    function showExpenditureByState() {
-      emptyDiv();
-      fetchFunction("/expenditureByState");
-    }
-    function showVetAge() {
-      emptyDiv();
-      fetchFunction("/vetByAge");
-    }
-    function showVetCases() {
-      emptyDiv();
-      fetchFunction("/vetCases");
-    }
-    function showVetPerStaff() {
-      emptyDiv();
-      fetchFunction("/vetPerStaff");
-    }
-
-    /*fetch('/expenditureByState')
-    .then(function (response) {
-        return response.json(); 
-    }) 	
-    .then(function (st) {
-     console.log(st);
-	 //var table = document.createElement('tabe');
-	 var t = document.getElementsByClassName("vetAge")[0]
-	 var tr = document.createElement('tr');
-	 for(var i=0;i<st[0].length;i++){
-		var th = document.createElement('th');
-		th.appendChild(document.createTextNode(st[0][i]));
-		tr.appendChild(th);
-	 }
-	 t.appendChild(tr);
-for (var i = 1; i < st.length; i++){
-    var tr = document.createElement('tr');   
-for(var j=0;j<st[0].length;j++){
-	    var td1 = document.createElement('td');
-		var text1 = document.createTextNode(st[i][j]);
-	    td1.appendChild(text1);
-		tr.appendChild(td1);
-
+.table-wrapper{
+  width: 100%;
+  align-items: center;
+  padding-top: 10px;
+    margin: 10px 70px 70px;
+    box-shadow: 0px 35px 50px rgba( 0, 0, 0, 0.2 );
+    display: inline-block;
 }
-  
-    t.appendChild(tr);
+
+.fl-table {
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: normal;
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+    white-space: nowrap;
+    background-color: white;
 }
-		});*/
-    function fetchFunction(inp) {
-      fetch(inp)
-        .then(function (response) {
-          return response.json();
-        })
-        .then(function (st) {
-          console.log(st);
-          showButtons();
-          //var table = document.createElement('table');
-          var t = document.getElementsByClassName("t")[0];
+
+.fl-table td, .fl-table th {
+    text-align: center;
+    padding: 8px;
+}
+
+.fl-table td {
+    border-right: 1px solid #f8f8f8;
+    font-size: 12px;
+}
+
+.fl-table thead th {
+    color: #ffffff;
+    background: #324960;
+}
+
+
+.fl-table thead th:nth-child(odd) {
+    color: #ffffff;
+    background: #324960;
+}
+
+.fl-table tbody tr {
+    color:black;
+    background: #b5bcc4;
+}
+
+
+.fl-table tbody tr:nth-child(odd) {
+    color:black;
+    background: #ffffff;
+}
+
+.fl-table tr:nth-child(even) {
+    background: #F8F8F8;
+}
+.fl-table tbody tr:hover {
+    background-color: #c8cada;
+  }
+/* Responsive */
+
+@media (max-width: 767px) {
+    .fl-table {
+        display: block;
+        width: 100%;
+    }
+    .table-wrapper:before{
+        content: "Scroll horizontally >";
+        display: block;
+        text-align: right;
+        font-size: 11px;
+        color: white;
+        padding: 0 0 10px;
+    }
+    .fl-table thead, .fl-table tbody, .fl-table thead th {
+        display: block;
+    }
+    .fl-table thead th:last-child{
+        border-bottom: none;
+    }
+    .fl-table thead {
+        float: left;
+    }
+    .fl-table tbody {
+        width: auto;
+        position: relative;
+        overflow-x: auto;
+    }
+    .fl-table td, .fl-table th {
+        padding: 20px .625em .625em .625em;
+        height: 60px;
+        vertical-align: middle;
+        box-sizing: border-box;
+        overflow-x: hidden;
+        overflow-y: auto;
+        width: 120px;
+        font-size: 13px;
+        text-overflow: ellipsis;
+    }
+    .fl-table thead th {
+        text-align: left;
+        border-bottom: 1px solid #f7f7f9;
+    }
+    .fl-table tbody tr {
+        display: table-cell;
+    }
+    .fl-table tbody tr:nth-child(odd) {
+        background: none;
+    }
+    .fl-table tr:nth-child(even) {
+        background: transparent;
+    }
+    .fl-table tr td:nth-child(odd) {
+        background: #F8F8F8;
+        border-right: 1px solid #E6E4E4;
+    }
+    .fl-table tr td:nth-child(even) {
+        border-right: 1px solid #E6E4E4;
+    }
+    .fl-table tbody td {
+        display: block;
+        text-align: center;
+    }
+
+    .fl-table tbody tr:hover {
+    background-color: #C3CAFF;
+  }
+}
+
+  div.heading1 {
+    text-align: center;
+    color: White;
+    text-shadow: 2px 2px 4px #000000;
+    height: 100px;
+    weight: 1000px;    
+    background-color: midnightblue;
+    font-family: -webkit-body;
+  }
+
+  img.a {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #555;
+  }
+
+  html {
+    box-sizing: border-box;
+  }
+
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
+  .column {
+    float: left;
+    width: 25%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .container1 {
+    padding: 0 16px;
+  }
+
+  body {
+    background-color: Antique White;
+  }
+</style>
+
+<body>
+  <div class="heading1">
+    <h1>CECS 571 Fundamentals of Semantic Web Technologies</h1>
+    <h2>Semantic Data Retrieval</h2>
+  </div>
+  <br />
+  <br />
+  <div style="text-align: center">
+    <button type="button" style="color:#151d25" class="btn btn-light btn-lg " onclick="showPopulationByState()">Population by State</button>
+    <button type="button" style="color:#151d25"class="btn btn-light btn-lg" onclick="showExpenditureByState()">Expenditure by State</button>
+    <button type="button" style="color:#151d25"class="btn btn-light btn-lg" onclick="showVetAge()">Veterans By Age</button>
+    <button type="button" style="color:#151d25"class="btn btn-light btn-lg" onclick="showVetCases()">Veteran Cases</button>
+    <button type="button" style="color:#151d25"class="btn btn-light btn-lg" onclick="showVetPerStaff()">Veterans per Staff</button>
+  </div>
+  <div class="showDiv" style="display: flex;">
+    <p></p>
+    <div class="table-wrapper">
+    <table class="fl-table"></table>
+  </div>
+  <div class="table-wrapper">
+    <img src="" />
+  </div>
+    </div>
+  </div>
+
+</body>
+<script>
+  function emptyDiv() {
+    let p = document.querySelector(".showDiv p");
+    p.innerHTML = "";
+    let table = document.querySelector(".showDiv table");
+    table.innerHTML = "";
+    let image = document.querySelector(".showDiv img");
+    image.src="";
+  }
+  function showPopulationByState() {
+    emptyDiv();
+    fetchFunction("/populationByState");
+    let image = document.querySelector(".showDiv img");
+
+    image.src = "{{url_for('static', filename='vetPopulation.jpg')}}"
+  }
+  function showExpenditureByState() {
+    emptyDiv();
+    fetchFunction("/expenditureByState");
+    let image = document.querySelector(".showDiv img");
+    image.src = "{{url_for('static', filename='vetExp.jpg')}}"
+  }
+  function showVetAge() {
+    emptyDiv();
+    fetchFunction("/vetByAge");
+    let image = document.querySelector(".showDiv img");
+    image.src = "{{url_for('static', filename='vetByAge.jpg')}}"
+    document.get
+  }
+  function showVetCases() {
+    emptyDiv();
+    fetchFunction("/vetCases");
+    let image = document.querySelector(".showDiv img");
+    image.src = "{{url_for('static', filename='vetCases.jpg')}}"
+  }
+  function showVetPerStaff() {
+    emptyDiv();
+    fetchFunction("/vetPerStaff");
+    let image = document.querySelector(".showDiv img");
+    image.src = "{{url_for('static', filename='vetStaff.jpg')}}"
+  }
+
+  function fetchFunction(inp) {
+    fetch(inp)
+      .then(function (response) {
+        return response.json();
+      })
+      .then(function (st) {
+        console.log(st);
+        //var table = document.createElement('table');
+        var t = document.getElementsByClassName("fl-table")[0];
+        var thead = document.createElement("thead");
+        var tr = document.createElement("tr");
+        for (var i = 0; i < st[0].length; i++) {
+          var th = document.createElement("th");
+          th.appendChild(document.createTextNode(st[0][i]));
+          tr.appendChild(th);
+        }
+        thead.appendChild(tr)
+        t.appendChild(thead);
+        for (var i = 1; i < st.length; i++) {
+          var tbody = document.createElement("tbody");
           var tr = document.createElement("tr");
-          for (var i = 0; i < st[0].length; i++) {
-            var th = document.createElement("th");
-            th.appendChild(document.createTextNode(st[0][i]));
-            tr.appendChild(th);
+          for (var j = 0; j < st[0].length; j++) {
+            var td1 = document.createElement("td");
+            var text1 = document.createTextNode(st[i][j]);
+            td1.appendChild(text1);
+            tr.appendChild(td1);
           }
-          t.appendChild(tr);
-          for (var i = 1; i < st.length; i++) {
-            var tr = document.createElement("tr");
-            for (var j = 0; j < st[0].length; j++) {
-              var td1 = document.createElement("td");
-              var text1 = document.createTextNode(st[i][j]);
-              td1.appendChild(text1);
-              tr.appendChild(td1);
-            }
+          tbody.appendChild(tr);
+          t.appendChild(tbody);
 
-            t.appendChild(tr);
-          }
-        });
-    }
-  </script>
+        }
+      });
+  }
+</script>
+
 </html>
