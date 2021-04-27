@@ -3,8 +3,9 @@
 
 # In[2]:
 
+from IPython import get_ipython
 
-get_ipython().system('pip install rdflib')
+get_ipython().system('!pip install rdflib')
 
 
 # In[16]:
